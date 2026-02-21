@@ -1,0 +1,55 @@
+═══════════════════════════════════════════════════════
+   DNS SETUP - COPY/PASTE READY (5 minutes)
+═══════════════════════════════════════════════════════
+
+URL: https://ap.www.namecheap.com/Domains/DomainControlPanel/kvrretailprivatelimited.online/advancedns
+
+STEP 1: Delete 2 existing parking records (click Remove × 2)
+
+STEP 2: Add New Record (click 5 times, fill in):
+
+┌─────────────────────────────────────────────┐
+│ Record 1:                                   │
+│ Type: A Record                              │
+│ Host: @                                     │
+│ Value: 185.199.108.153                      │
+│ TTL: Automatic                              │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│ Record 2:                                   │
+│ Type: A Record                              │
+│ Host: @                                     │
+│ Value: 185.199.109.153                      │
+│ TTL: Automatic                              │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│ Record 3:                                   │
+│ Type: A Record                              │
+│ Host: @                                     │
+│ Value: 185.199.110.153                      │
+│ TTL: Automatic                              │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│ Record 4:                                   │
+│ Type: A Record                              │
+│ Host: @                                     │
+│ Value: 185.199.111.153                      │
+│ TTL: Automatic                              │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│ Record 5:                                   │
+│ Type: CNAME Record                          │
+│ Host: www                                   │
+│ Value: amanmoltbot.github.io                │
+│ TTL: Automatic                              │
+└─────────────────────────────────────────────┘
+
+STEP 3: Click "Save All Changes" (green button at bottom)
+
+DONE! Website will be live in 10-30 minutes.
+
+═══════════════════════════════════════════════════════
